@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|c:\\users\\tania\\onedrive\\escritorio\\lab. analisis\\adsproject\\adsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\adsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarreraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Repositories\\CarreraRepository.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Repositories\\CarreraRepository.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Repositories\\CarreraRepository.cs",
+              "RelativeToolTip": "ADSProject\\Repositories\\CarreraRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T22:11:35.164Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Interfaces\\IEstudiante.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Interfaces\\IEstudiante.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Interfaces\\IEstudiante.cs",
+              "RelativeToolTip": "ADSProject\\Interfaces\\IEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:57:08.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Program.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Program.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Program.cs",
+              "RelativeToolTip": "ADSProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:50:56.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarrerasController.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Controllers\\CarrerasController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\CarrerasController.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Controllers\\CarrerasController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\CarrerasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:49:23.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstudianteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Repositories\\EstudianteRepository.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Repositories\\EstudianteRepository.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Repositories\\EstudianteRepository.cs",
+              "RelativeToolTip": "ADSProject\\Repositories\\EstudianteRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwFgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:22:47.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Models\\Estudiante.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:32:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Models\\Carrera.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Carrera.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Models\\Carrera.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Carrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T22:32:12.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarrera.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Interfaces\\ICarrera.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Interfaces\\ICarrera.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Interfaces\\ICarrera.cs",
+              "RelativeToolTip": "ADSProject\\Interfaces\\ICarrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:35:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\ADSProject\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowIsAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:58:25.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
