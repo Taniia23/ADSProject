@@ -30,3 +30,36 @@ C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\ADSProject\ADSProject\obj\Debug
 C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.pdb
 C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
 C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\ADSProject\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.exe
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.deps.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.runtimeconfig.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.pdb
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.AssemblyReference.cache
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfoInputs.cache
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfo.cs
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.CoreCompileInputs.cache
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.sourcelink.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject.props
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject.props
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject.props
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\scopedcss\bundle\ADSProject.styles.css
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.Up2Date
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\refint\ADSProject.dll
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.pdb
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
+C:\Users\tania\OneDrive\Documentos\GUIAA\ADSProject\ADSProject\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll

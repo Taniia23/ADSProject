@@ -1,6 +1,7 @@
 using ADSProject.Interfaces;
 using ADSProject.Repositories;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -13,6 +14,7 @@ builder.Services.AddSwaggerGen();
 //Configurando inyeccion de dependencias
 builder.Services.AddSingleton<IEstudiante, EstudianteRepository>();
 builder.Services.AddSingleton<ICarrera, CarreraRepository>();
+builder.Services.AddSingleton<IProfesor, ProfesorRepository>();
 
 var app = builder.Build();
 
