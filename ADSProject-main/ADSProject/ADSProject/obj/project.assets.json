@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tania\\Downloads\\ADSProject-main\\ADSProject-main\\ADSProject\\ADSProject\\ADSProject.csproj",
+      "projectUniqueName": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\ADSProject.csproj",
       "projectName": "ADSProject",
-      "projectPath": "C:\\Users\\tania\\Downloads\\ADSProject-main\\ADSProject-main\\ADSProject\\ADSProject\\ADSProject.csproj",
+      "projectPath": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\ADSProject.csproj",
       "packagesPath": "C:\\Users\\tania\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tania\\Downloads\\ADSProject-main\\ADSProject-main\\ADSProject\\ADSProject\\obj\\",
+      "outputPath": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tania\\AppData\\Roaming\\NuGet\\NuGet.Config",

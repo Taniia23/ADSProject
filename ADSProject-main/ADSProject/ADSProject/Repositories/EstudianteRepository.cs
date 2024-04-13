@@ -10,8 +10,8 @@ namespace ADSProject.Repositories
         {
             new Estudiante{
             IdEstudiante = 1,
-            NombresEstudiante= "JUAN CARLOS",
-            ApellidosEstudiante = "PEREZ SOSA", 
+            NombresEstudiante= "CARLOS ANTONIO",
+            ApellidosEstudiante = "MENENDEZ CARAY", 
             CodigoEstudiante ="PS24I04002",
             CorreoEstudiante= "PS24I04002@usonsonate.edu.sv"}
         };

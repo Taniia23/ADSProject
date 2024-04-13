@@ -1,9 +1,8 @@
 ﻿
 using ADSProject.Interfaces;
-using System.Numerics;
 using ADSProject.Models;
 
-namespace ADSProject01.Repositories
+namespace ADSProject.Repositories
 {
     public class GrupoRepository : IGrupo
     {

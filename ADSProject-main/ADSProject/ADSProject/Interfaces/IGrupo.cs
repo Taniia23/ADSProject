@@ -1,9 +1,10 @@
 ﻿using ADSProject.Models;
+using System.Text.RegularExpressions;
 
 namespace ADSProject.Interfaces
 {
-    public interface IGrupo
-    {
+    
+    
         public interface IGrupo
         {
             public int AgregarGrupo(Grupo grupo);
@@ -16,5 +17,5 @@ namespace ADSProject.Interfaces
 
             public Grupo ObtenerGrupoPorId(int idGrupo);
         }
-    }
+    
 }

@@ -1,6 +1,6 @@
-﻿
-using ADSProject.Interfaces;
+﻿using ADSProject.Interfaces;
 using ADSProject.Models;
+
 
 namespace ADSProject.Repositories
 {
@@ -8,7 +8,7 @@ namespace ADSProject.Repositories
     {
         private List<Profesor> lstProfesor = new List<Profesor>
         {
-            new Profesor{IdProfesor = 1, NombresProfesor="Ana", ApellidosProfesor = "Perez", Email="Ana@"}
+            new Profesor{IdProfesor = 1, NombresProfesor="Adriana", ApellidosProfesor = "Garcia", Email="Adrian@gmail.com"}
         };
 
         public int ActualizarProfesor(int idProfesor, Profesor profesor)
@@ -80,7 +80,8 @@ namespace ADSProject.Repositories
             }
         }
 
-        public List<Profesor> ObtenerTodasLosProfesores()
+
+        public List<Profesor> ObtenerTodosLosProfesores()
         {
             try
             {
@@ -91,15 +92,6 @@ namespace ADSProject.Repositories
                 throw;
             }
         }
-
-        public List<Profesor> ObtenerTodosLosProfesores()
-        {
-            throw new NotImplementedException();
-        }
-
-        Carrera IProfesor.ObtenerProfesorPorId(int idProfesor)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
+
