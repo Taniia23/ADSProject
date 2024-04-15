@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|c:\\users\\tania\\onedrive\\documentos\\guiaa\\adsproject\\adsproject-main\\adsproject\\adsproject\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|c:\\users\\tania\\onedrive\\documentos\\guiaa\\adsproject\\adsproject-main\\adsproject\\adsproject\\controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\adsproject\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\adsproject\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|c:\\users\\tania\\onedrive\\documentos\\guiaa\\adsproject\\adsproject-main\\adsproject\\adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,6 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MateriaController.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Controllers\\MateriaController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\MateriaController.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Controllers\\MateriaController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\MateriaController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:22:49.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Materia.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Materia.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:22:00.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProfesorController.cs",
               "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Controllers\\ProfesorController.cs",
               "RelativeDocumentMoniker": "ADSProject\\Controllers\\ProfesorController.cs",
@@ -46,12 +79,11 @@
               "RelativeToolTip": "ADSProject\\Controllers\\ProfesorController.cs",
               "ViewState": "AQIAAHsAAAAAAAAAAAAowBsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T22:10:05.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T22:10:05.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Profesor.cs",
               "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Profesor.cs",
               "RelativeDocumentMoniker": "ADSProject\\Models\\Profesor.cs",
@@ -59,12 +91,11 @@
               "RelativeToolTip": "ADSProject\\Models\\Profesor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T22:06:54.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T22:06:54.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Carrera.cs",
               "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Carrera.cs",
               "RelativeDocumentMoniker": "ADSProject\\Models\\Carrera.cs",
@@ -72,8 +103,7 @@
               "RelativeToolTip": "ADSProject\\Models\\Carrera.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T02:21:07.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T02:21:07.998Z"
             },
             {
               "$type": "Bookmark",
