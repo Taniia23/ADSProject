@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|c:\\users\\tania\\onedrive\\documentos\\guiaa\\adsproject\\adsproject-main\\adsproject\\adsproject\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\adsproject\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93AAAC42-FAAF-4BB3-9FF8-93D0EA207D8C}|ADSProject\\ADSProject.csproj|c:\\users\\tania\\onedrive\\documentos\\guiaa\\adsproject\\adsproject-main\\adsproject\\adsproject\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,34 +37,47 @@
               "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfesorController.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Controllers\\ProfesorController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\ProfesorController.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Controllers\\ProfesorController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\ProfesorController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:10:05.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Profesor.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:06:54.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Carrera.cs",
               "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Carrera.cs",
               "RelativeDocumentMoniker": "ADSProject\\Models\\Carrera.cs",
               "ToolTip": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Models\\Carrera.cs",
               "RelativeToolTip": "ADSProject\\Models\\Carrera.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T02:21:07.998Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarrerasController.cs",
-              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Controllers\\CarrerasController.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Controllers\\CarrerasController.cs",
-              "ToolTip": "C:\\Users\\tania\\OneDrive\\Documentos\\GUIAA\\ADSProject\\ADSProject-main\\ADSProject\\ADSProject\\Controllers\\CarrerasController.cs",
-              "RelativeToolTip": "ADSProject\\Controllers\\CarrerasController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwD4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T02:17:56.747Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
