@@ -1,8 +1,12 @@
 using ADSProject.Interfaces;
 using ADSProject.Repositories;
+using ADSProject.DB;
+using Microsoft.EntityFrameworkCore;
 
 
 var builder = WebApplication.CreateBuilder(args);
+//Configurando DBContext
+builder.Services.AddDbContext<ApplicationDbContext>(opciones => opciones.UseSqlServer("name=DefaultConnection"));
 
 // Add services to the container.
 
