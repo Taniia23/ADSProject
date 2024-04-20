@@ -14,5 +14,9 @@ namespace ADSProject.DB
          de datos, y también le diremos en base a que modelos o entidades vamos a basar dchas tablas, por ejemplo*/
 
         public DbSet<Estudiante> Estudiantes { get; set; }
+        public DbSet<Carrera> Carreras { get; set; }
+        public DbSet<Grupo> Grupos { get; set; }
+        public DbSet<Materia> Materias { get; set; }
+        public DbSet<Profesor> Profesors { get; set; }
     }
 }
